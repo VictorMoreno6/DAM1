@@ -16,7 +16,7 @@ public class Strings {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola soy Victor Moreno");
-        System.out.println("Estamos en Netbeants");
+        System.out.println("Estamos en IntelliJ");
     }
     
 }
